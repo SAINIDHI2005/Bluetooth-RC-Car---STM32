@@ -61,7 +61,8 @@ The RC car is controlled wirelessly using a mobile Bluetooth app via the **HC-05
 ![image alt](https://github.com/SAINIDHI2005/Bluetooth-RC-Car---STM32/blob/83542162deef8fa006d91d126840e978a26e2b15/photo_2026-01-05_20-14-56.jpg)
 
 Demo Video Link: 
-https://github.com/user-attachments/assets/7b085902-6e3c-4de5-a387-3939970b024e
+https://github.com/user-attachments/assets/5413e547-da2e-4f4f-b43f-767a29290410
+
 
 
 
