@@ -32,7 +32,7 @@ The RC car is controlled wirelessly using a mobile Bluetooth app via the **HC-05
 | DC–DC Buck Converter | Steps down battery voltage to required levels |
 | 2 × 18650 Li-ion Batteries (3.7V each) | Power source (used as a 2-cell pack) |
 | 18650 Battery Holder | Holds and connects the batteries |
-| Breadboard | Prototyping and connections |
+| Breadboard and Jumper Wires | Prototyping and connections |
 | 2WD Acrylic Car Kit | Chassis with wheels |
 | 300 RPM BO Motors (×2) | Drive motors for the RC car |
 
